@@ -1,0 +1,26 @@
+{
+  "list_task": "List Task",
+  "search": "Search",
+  "no_task": "There is no task",
+
+  "task_detail": "Task detail",
+  "create_task": "Create new task",
+
+  "username": "Username/Email",
+  "password": "Password",
+  "login": "Login",
+  "login_google": "Login google",
+  "forgot_pass": "Forgot password?",
+  "reset_pass": "Reset password",
+  "version": "Version",
+
+  "back": "Back",
+  "task": "Task",
+  "project": "Project",
+  "helpdesk": "Helpdesk",
+  "setting": "Setting",
+  "logout": "Logout",
+
+  "change_language": "Change language",
+  "change_company": "Change company"
+}

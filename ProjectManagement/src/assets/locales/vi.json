@@ -1,0 +1,26 @@
+{
+  "list_task": "Công việc",
+  "search": "Tìm kiếm",
+  "no_task": "Không có công việc",
+
+  "task_detail": "Chi tiết công việc",
+  "create_task": "Tạo công việc mới",
+
+  "username": "Tài khoản",
+  "password": "Mật khẩu",
+  "login": "Đăng nhập",
+  "login_google": "Đăng nhập bằng Google",
+  "forgot_pass": "Quên mật khẩu?",
+  "reset_pass": "lấy lại mật khẩu",
+  "version": "Phiên bản",
+
+  "back": "Quay về",
+  "task": "Công việc",
+  "project": "Dự án",
+  "helpdesk": "Hỗ trơ",
+  "setting": "cài đặt",
+  "logout": "Đăng xuất",
+
+  "change_language": "Thay đổi ngôn ngữ",
+  "change_company": "Thay đổi công ty"
+}
